@@ -1,0 +1,4 @@
+Bugs to Fix:
+
+1. Match Password in create Account
+2. At start, it shows to enter correct mail id even though i clicked create account
